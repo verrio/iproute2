@@ -47,3 +47,9 @@ doc/*.dvi
 doc/*.html
 doc/*.pdf
 doc/*.out
+
+# IDE
+.cproject
+.project
+.settings/
+

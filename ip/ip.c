@@ -25,7 +25,7 @@
 #include "namespace.h"
 #include "color.h"
 
-int preferred_family = AF_UNSPEC;
+int preferred_family = AF_INET6;
 int human_readable;
 int use_iec;
 int show_stats;
